@@ -1,0 +1,2 @@
+- https://osf.io/w4m7r
+    - [Inductive Pulse Charging - What, How & Why?.pdf](https://osf.io/ztfub/files/w4m7r)
